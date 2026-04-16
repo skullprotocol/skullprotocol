@@ -11,7 +11,7 @@
 <p align="center">「​​🇸​​🇱​​🇦​​🇺​​🇬​​🇭​​🇹​​🇪​​🇷​​🇪​​🇩​ - ​🇵​​🇦​​🇳​​🇹​​🇪​​🇷​​🇦​」« <br/> 0:55 ─〇────── 3:55 <br/>  ݁⇄   ◃◃   ⅠⅠ   ▹▹   ↻ </p>
 <p align="center"> 
 <p align="center"> ᴀᴅᴅ ᴍᴇ ᴏɴ ʀɪᴠᴀʟꜱ ! @ʜʀᴛʙʀᴋ.ɢɪʀʟɪᴇ. </p>
-<p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘ </p>
+<p align="center">⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘ </p>
 <p align="center"> <a href="https://github.com/shaiiraviolii">@shaiiraviolii <--main .</a> </p> 
   
 <br><br>
