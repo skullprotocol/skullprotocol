@@ -29,6 +29,7 @@
   <img src="https://github.com/user-attachments/assets/da3539ef-139c-4e8b-8884-8bfaaa5b3e61" width="250" height="250"/>
 </p>
 <p align="center">
+    <a href="https://shaiiraviolii.straw.page/skullprotocol/">yume strawpage !</a>
   <a href="https://rentry.co/shaiiraviolii">rentry !</a>
   <a href="https://shaiiraviolii.atabook.org/">atabook !</a>
 </p>
