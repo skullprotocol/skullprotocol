@@ -10,7 +10,7 @@
 
 ![tumblr_03b72ada981835ecffc87360b169bb3f_ce23985a_2048](https://github.com/user-attachments/assets/23f8c474-8284-4ba8-90b3-2de942a7dd34)
 
-<img src="https://github.com/user-attachments/assets/19503d01-e8b9-43ea-ad40-3bba9b7d96be" align="left" width="650" height="420"/>
+<img src="https://github.com/user-attachments/assets/19503d01-e8b9-43ea-ad40-3bba9b7d96be" align="left" width="650" height="380"/>
 
 <p align="center"> ݁݁<br/> <br/> ᴅ1 ꜰʀᴀɴᴋ ᴄᴀꜱᴛʟᴇ ᴇɴᴊᴏʏᴇʀ + ʏᴜᴍᴇ .</p>
 <p align="center">「​​🇸​​🇱​​🇦​​🇺​​🇬​​🇭​​🇹​​🇪​​🇷​​🇪​​🇩​ - ​🇵​​🇦​​🇳​​🇹​​🇪​​🇷​​🇦​」« <br/> 0:55 ─〇────── 3:55 <br/>  ݁⇄   ◃◃   ⅠⅠ   ▹▹   ↻ </p>
