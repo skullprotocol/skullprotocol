@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6b40da2-6fed-4966-b8a7-938e36d9b9c4" width="400" height="70"/>
+  <img src="https://github.com/user-attachments/assets/b6b40da2-6fed-4966-b8a7-938e36d9b9c4" width="400" height="30"/>
 </p>
 
 ![tumblr_03b72ada981835ecffc87360b169bb3f_ce23985a_2048](https://github.com/user-attachments/assets/23f8c474-8284-4ba8-90b3-2de942a7dd34)
