@@ -32,6 +32,7 @@
     <a href="https://shaiiraviolii.straw.page/skullprotocol/">yume strawpage !</a>
   <a href="https://rentry.co/shaiiraviolii">rentry !</a>
   <a href="https://shaiiraviolii.atabook.org/">atabook !</a>
+  <a href="https://guns.lol/shaiiraviolii">guns !</a>
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fadbeb75-2b7c-4427-9286-f0ebe6f9c855" width="250" height="50"/>
