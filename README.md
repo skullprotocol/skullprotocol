@@ -2,11 +2,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/86e15e2c-6f71-45e5-84af-6d6e537e8d1c" width="200" height="35"/>
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ad282db6-4199-4913-bd20-deca87c1f3fd" width="100" height="30"/>
-</p>
-
-
 
 ![tumblr_03b72ada981835ecffc87360b169bb3f_ce23985a_2048](https://github.com/user-attachments/assets/23f8c474-8284-4ba8-90b3-2de942a7dd34)
 
