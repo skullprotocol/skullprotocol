@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8fc2082e-45d5-441b-9412-222d05a276fa" width="500">
-  <img src="https://github.com/user-attachments/assets/74c413e8-96ca-4a51-bc94-2aac42762060" width="500">
+  <img src="https://github.com/user-attachments/assets/8fc2082e-45d5-441b-9412-222d05a276fa" width="400">
+  <img src="https://github.com/user-attachments/assets/74c413e8-96ca-4a51-bc94-2aac42762060" width="400">
 </p>
 
 
 ![tumblr_03b72ada981835ecffc87360b169bb3f_ce23985a_2048](https://github.com/user-attachments/assets/23f8c474-8284-4ba8-90b3-2de942a7dd34)
 
-<img src="https://github.com/user-attachments/assets/84ddee4b-9b3e-4b77-aa8e-f9e47786bbf0" width="450" align="left">
-<img src="https://github.com/user-attachments/assets/f21142ee-9762-4b51-b2ee-270f9ff121d0" width="450" align="right">
+<img src="https://github.com/user-attachments/assets/84ddee4b-9b3e-4b77-aa8e-f9e47786bbf0" width="400" align="left">
+<img src="https://github.com/user-attachments/assets/f21142ee-9762-4b51-b2ee-270f9ff121d0" width="400" align="right">
 
 <p align="center"><strong>ꨄ ꜰʀᴀɴᴋ ᴄᴀꜱᴛʟᴇ , ᴅᴇᴀᴅᴘᴏᴏʟ , ᴀᴅᴀᴍ ᴡᴀʀʟᴏᴄᴋ , ᴄᴀʙʟᴇ , ᴡᴏʟᴠᴇʀɪɴᴇ , ɴᴀᴍᴏʀ</strong></p>
 
