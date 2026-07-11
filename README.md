@@ -26,24 +26,24 @@
 
 <br>
 <p align="center">
-  ꜱᴛʀᴀᴡ !!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ᴀᴛᴀʙᴏᴏᴋ !! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ʀᴇɴᴛʀʏ !!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ɢᴜɴꜱ !!
+  ꜱᴛʀᴀᴡ !! ᴀᴛᴀʙᴏᴏᴋ !! ʀᴇɴᴛʀʏ !! ɢᴜɴꜱ !! (ɪɴ ᴏʀᴅᴇʀ)
 </p>
 
 <p align="center">
   <a href="shaiiraviolii.straw.page/skullprotocol">
-    <img src="https://github.com/user-attachments/assets/79a815e5-7bb9-4d0e-8c1c-2885377d8cd8" width="220">
+    <img src="https://github.com/user-attachments/assets/79a815e5-7bb9-4d0e-8c1c-2885377d8cd8" width="200">
   </a>
 
   <a href="shaiiraviolii.atabook.org">
-    <img src="https://github.com/user-attachments/assets/147fe5e9-e8dd-4eb4-8a0b-5808c14041ce" width="220">
+    <img src="https://github.com/user-attachments/assets/147fe5e9-e8dd-4eb4-8a0b-5808c14041ce" width="200">
   </a>
 
   <a href="rentry.co/shaiiraviolii">
-    <img src="https://github.com/user-attachments/assets/2c7c8d43-16f1-46fe-b483-88bed6e682d4" width="220">
+    <img src="https://github.com/user-attachments/assets/2c7c8d43-16f1-46fe-b483-88bed6e682d4" width="200">
   </a>
 
   <a href="guns.lol/shaiiraviolii">
-    <img src="https://github.com/user-attachments/assets/ad29f846-8ef2-435b-a768-e7c242c06e84" width="220">
+    <img src="https://github.com/user-attachments/assets/ad29f846-8ef2-435b-a768-e7c242c06e84" width="200">
   </a>
 </p>
 
@@ -58,9 +58,9 @@
   <img src="https://github.com/user-attachments/assets/759f0a25-bbe7-409d-8c93-f075a3238ba0" width="300">
 </p>
   
-<img src="https://github.com/user-attachments/assets/864e684e-1a8f-4b14-8008-f645e335f92f" width="400" align="left">
+<img src="https://github.com/user-attachments/assets/864e684e-1a8f-4b14-8008-f645e335f92f" width="300" align="left">
 
-<img src="https://github.com/user-attachments/assets/b0905d0a-7251-4909-9176-3dda0e2038ab" width="400" align="right">
+<img src="https://github.com/user-attachments/assets/b0905d0a-7251-4909-9176-3dda0e2038ab" width="300" align="right">
 <details>
   <summary><strong>byi / dni !</strong></summary>
 
