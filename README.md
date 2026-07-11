@@ -88,7 +88,7 @@
 
 </div>
 
-<img src="https://github.com/user-attachments/assets/435f2696-4790-4ac4-a501-0a8013721346" width="3000"/>
+<img src="https://github.com/user-attachments/assets/435f2696-4790-4ac4-a501-0a8013721346" width="4000"/>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/37f5b281-1a1a-4684-873c-764784e19fd6" width="900" height="500"/>
